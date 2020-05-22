@@ -1,3 +1,4 @@
+//I am studying git
 #include "main.h"
 #include <windows.h>
 static char excel_name[100][10];
