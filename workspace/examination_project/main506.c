@@ -1,4 +1,5 @@
 //I am studying git
+//Language C is the best in the world.
 #include "main.h"
 #include <windows.h>
 static char excel_name[100][10];
